@@ -1,5 +1,1 @@
-# work
-temp learning 
-
-This is the test page
-or testing purpose 
+This week, I was busy with the current project where I got a lot of changes. I had found significant issues with the current project and taking responsibility for update those issues. Apart from that, I had learned how to manage a project and code style consistency throughout a project. I learned that how to manage the consistency in the implemented code. for example, design certain rules and pattern.
